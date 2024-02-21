@@ -13,5 +13,6 @@ node generate.js
 
 ## Ressources
 
-- Useful word collections: <https://github.com/dariusk/corpora>
+- Useful word collections: [dariusk/corpora](https://github.com/dariusk/corpora)
 - Tracery tutorial: <http://air.decontextualize.com/tracery/>
+- Good example bot for reference: [Wizard Roll Call](https://cheapbotstootsweet.com/source/?url=https://botsin.space/@wizard_roll_call)
